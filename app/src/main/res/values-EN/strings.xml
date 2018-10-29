@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movienebro</string>
+    <string name="tanggal_tayang">Date Release</string>
+    <string name="bahasa" >Languange</string>
+    <string name="detail">Detail</string>
+</resources>
